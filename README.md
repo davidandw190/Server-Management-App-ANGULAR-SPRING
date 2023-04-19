@@ -6,9 +6,9 @@ The applicationis aims to be a scalable and efficient solution that can manage l
 
 The project is devided intro 2 applications that communicate with eachother through REST API's
 
-**BACK-END APPLICATION:**
+**BACK-END APPLICATION:** that can be found [HERE](https://github.com/davidandw190/Server-Management-Back-End-SPRING)
 
-**FRONT-END APPLICATION:**
+**FRONT-END APPLICATION:** that can be found [HERE](https://github.com/davidandw190/Server-Mang-Front-End-ANGULAR-RXJS)
 
 
 ## Features
@@ -42,8 +42,8 @@ To install the application, follow these steps:
 
 1. Clone the BACK-END and FRONT-END repositories:
 
-`git clone https://github.com/your-username/server-management-application.git`
-`git clone https://github.com/your-username/server-management-application.git`
+`git clone https://github.com/davidandw190/Server-Management-Back-End-SPRING.git`
+`git clone https://github.com/davidandw190/Server-Mang-Front-End-ANGULAR-RXJS.git`
 
 
 2. Import the backend and frontend projects into your IDE.
