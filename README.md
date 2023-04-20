@@ -51,7 +51,6 @@ To install the application, follow these steps:
 3. Install the dependencies by running the following command in the terminal: `npm install`
 
 4. Configure the application properties file with your MySQL database connection details.
-
 5. Run the backend and frontend servers.
 
 
