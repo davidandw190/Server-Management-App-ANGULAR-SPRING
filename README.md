@@ -1,6 +1,8 @@
 ## Server Management Application
 
-The applicationis aims to be a scalable and efficient solution that can manage large-scale server systems effectively. This application uses Spring and Angular frameworks to provide a seamless user experience, incorporating a reactive approach in handling events with RxJS, while Spring Data JPA and MySQL ensure optimal database performance.
+The application aims to be a scalable and efficient solution that can manage large-scale server systems effectively. This application uses Spring and Angular frameworks to provide a seamless user experience, incorporating a reactive approach in handling events with RxJS, while Spring Data JPA and MySQL ensure optimal database performance.
+
+The project is built using as inspiration a series of courses from AMIGOSCODE and GETARRAYS, courses from which I have have gained a great deal of technical skills and best practices. The goal was familiarising myself with the Spring and Angualr enviroments, building an end to end fully fledged application. I experimented with projects, libraries and approaches and I got over many challanges along the way.
 
 ## Important
 
@@ -21,8 +23,9 @@ The project is devided intro 2 applications that communicate with eachother thro
 * Sorting servers by: `ALL`, `SERVER UP`, `SERVER DOWN` 
 * Simple notification system
 * RESTful API communication
-* MVC arhitecture
+* MVC arhitecture principles
 * Responsive and user-friendly interface
+* Reactive UI design with the help of RxJS
 
 ## Technologies Used
 
