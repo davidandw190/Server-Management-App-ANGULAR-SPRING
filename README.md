@@ -10,6 +10,10 @@ The project is devided intro 2 applications that communicate with eachother thro
 
 **FRONT-END APPLICATION:** that can be found [HERE](https://github.com/davidandw190/Server-Mang-Front-End-ANGULAR-RXJS)
 
+## Preview
+
+<img src="./serv-preview1.png" width=500>
+<img src="./serv-preview2.png" width=500>
 
 ## Features
 
